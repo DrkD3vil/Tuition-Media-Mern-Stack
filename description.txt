@@ -10,3 +10,8 @@ CMD terminal
 1. npx create-react-app client
 2. cd client 
 3. npm start
+	node setup:
+1. npm init
+2.npm i express mongoose jsonwebtoken dotenv
+3. npm i nodemon
+4.nodemon server [before create server.js]
