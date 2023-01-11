@@ -4,3 +4,9 @@ Requirements:
 3.	React
 4.	HTML and CSS
 5.	JavaScript
+
+CMD terminal
+	react setup:
+1. npx create-react-app client
+2. cd client 
+3. npm start
