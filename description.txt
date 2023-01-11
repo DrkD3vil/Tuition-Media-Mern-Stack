@@ -1,0 +1,6 @@
+Requirements: 
+1.	Mongo DB
+2.	Express and Node js
+3.	React
+4.	HTML and CSS
+5.	JavaScript
