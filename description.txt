@@ -15,3 +15,8 @@ CMD terminal
 2.npm i express mongoose jsonwebtoken dotenv
 3. npm i nodemon
 4.nodemon server [before create server.js]
+
+mongoDB:
+1. npm i dotenv
+2.npm install react-route
+r-dom antd
