@@ -20,3 +20,4 @@ mongoDB:
 1. npm i dotenv
 2.npm install react-route
 r-dom antd
+3.npm install antd
