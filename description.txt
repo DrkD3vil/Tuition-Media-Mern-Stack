@@ -21,3 +21,11 @@ mongoDB:
 2.npm install react-route
 r-dom antd
 3.npm install antd
+
+forntend:
+npm start
+npm i axios redux redux-toolkit react-hot-toast
+
+backend:
+nodemon server
+npm i bcrypt bcryptjs
